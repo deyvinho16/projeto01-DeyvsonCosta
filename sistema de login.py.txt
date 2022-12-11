@@ -1,0 +1,2 @@
+login = str(input("Digite seu login"))
+senha = int(input("Digite sua senha"))
