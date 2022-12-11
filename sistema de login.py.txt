@@ -1,2 +1,4 @@
 login = str(input("Digite seu login"))
 senha = int(input("Digite sua senha"))
+
+print(f"Seu login é: {login}\n E sua senha é: {senha}
